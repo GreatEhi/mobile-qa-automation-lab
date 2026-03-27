@@ -1,0 +1,10 @@
+mobile-automation-appium/
+│
+├── tests/
+│   └── test_settings.py
+│
+├── utils/
+│   └── driver_setup.py
+│
+├── requirements.txt
+├── README.md
